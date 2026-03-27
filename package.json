@@ -3,9 +3,16 @@
   "version": "1.0.0",
   "description": "Interactive plugin installer for Copilot CLI",
   "main": "select-and-install.js",
+  "bin": {
+    "ws-tools": "./select-and-install.js"
+  },
+  "files": [
+    "plugins",
+    "select-and-install.js"
+  ],
   "scripts": {},
   "dependencies": {
-    "inquirer": "^9.0.0"
+    "inquirer": "^8.2.5"
   },
   "keywords": ["copilot", "plugin", "installer"],
   "author": "Willis",
