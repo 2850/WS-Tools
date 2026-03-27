@@ -1,0 +1,25 @@
+{
+  "name": "Willis-marketplace",
+  "owner": {
+    "name": "Willis",
+    "email": "soeasy2850@hotmail.com"
+  },
+  "metadata": {
+    "description": "Willis personal Copilot CLI plugin marketplace",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "youtube-summary-note",
+      "source": "plugins/youtube-summary-note",
+      "description": "summary youtube",
+      "version": "0.1.0"
+    },
+    {
+      "name": "sequence-diagram-generator",
+      "source": "plugins/sequence-diagram-generator",
+      "description": "Write step by step about flow, will create mulitple sequence(e.g:mermaid,excaildraw,drawio)",
+      "version": "0.1.0"
+    }
+  ]
+}

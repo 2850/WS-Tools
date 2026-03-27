@@ -1,0 +1,17 @@
+{
+  "name": "Willis-demo",
+  "description": "My personal dev tools plugin for Copilot CLI",
+  "version": "0.1.0",
+  "author": {
+    "name": "willis",
+    "email": "soeasy2850@hotmail.com"
+  },
+  "license": "MIT",
+  "keywords": ["mermaid", "flow","excaildraw","drawio","pencil"],
+  "agents": "agents/",
+  "skills": [
+    "skills/"
+  ],
+  "hooks": "hooks.json",
+  "mcpServers": ".mcp.json"
+}

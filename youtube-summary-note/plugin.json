@@ -1,0 +1,17 @@
+{
+  "name": "youtube-summary-note",
+  "description": "youtube-summary with transcript",
+  "version": "0.1.0",
+  "author": {
+    "name": "willis",
+    "email": "soeasy2850@hotmail.com"
+  },
+  "license": "MIT",
+  "keywords": ["youtube", "transcript"],
+  "agents": "agents/",
+  "skills": [
+    "skills/"
+  ],
+  "hooks": "hooks.json",
+  "mcpServers": ".mcp.json"
+}
