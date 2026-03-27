@@ -1,0 +1,13 @@
+{
+  "name": "ws-tools",
+  "version": "1.0.0",
+  "description": "Interactive plugin installer for Copilot CLI",
+  "main": "select-and-install.js",
+  "scripts": {},
+  "dependencies": {
+    "inquirer": "^9.0.0"
+  },
+  "keywords": ["copilot", "plugin", "installer"],
+  "author": "Willis",
+  "license": "MIT"
+}
